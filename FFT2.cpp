@@ -1,6 +1,11 @@
 // FFT2.cpp
-// Program for computing the FFT of an image
 // Edwin Cordon
+//
+// Program for computing the FFT of an image.
+// FFT2 takes a grayscale raw image and saves
+// the magnitude of the frequency spectrum into
+// a ppm image.
+//
 
 #include <iostream>
 #include <stdio.h>
